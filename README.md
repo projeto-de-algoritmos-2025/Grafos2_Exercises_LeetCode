@@ -10,7 +10,7 @@
 | 20/0024949  |  Matheus Ferreira Diogo |
 
 ## Sobre 
-Resolução de questões do LeetCode (1 difícil e 2 médias) pelos integrantes do grupo com o objetivo de demonstrar o conhecimento adquirido nesse módulo (Grafos 2) da disciplina. 
+Resolução de questões do LeetCode (2 difíceis e 1 média) pelos integrantes do grupo com o objetivo de demonstrar o conhecimento adquirido nesse módulo (Grafos 2) da disciplina. 
 
 ## Screenshots
 
