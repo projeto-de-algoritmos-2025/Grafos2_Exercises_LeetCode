@@ -32,7 +32,8 @@ Utilizamos BFS com estado (nó atual, máscara de visitados) para explorar todos
 
 
 
-##Link para vídeo da apresentação:
+## Link para vídeo da apresentação:
+https://youtu.be/63C8dEI6J1M
 
 
 ## Instalação 
@@ -40,3 +41,4 @@ Utilizamos BFS com estado (nó atual, máscara de visitados) para explorar todos
 
 ## Outros 
 ...
+O LeetCode é um site voltado para a prática de algoritmos e estruturas de dados. Ele apresenta problemas com enunciados detalhados, exemplos ilustrativos e um ambiente de codificação que já vem com uma estrutura básica pronta (geralmente uma classe chamada Solution com um método a ser completado). Os usuários podem desenvolver suas soluções diretamente nesse editor e utilizar o botão "Run Code" para testar com os exemplos dados ou clicar em "Submit" para verificar a resposta contra todos os testes do sistema. A plataforma é compatível com várias linguagens de programação e fornece retorno automático sobre a correção e eficiência da solução.
